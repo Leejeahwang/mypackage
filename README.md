@@ -1,1 +1,2 @@
-# mypackage
+README
+this program
