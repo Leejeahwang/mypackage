@@ -7,6 +7,6 @@ setuptools.setup(
   download_url = "hhttps://github.com/leejeahwang/mypackage/archive/refs/tags/v0.0.1.zip"
   classifiers = [
       "Programming Language :: Python :: 3",
-      "Operating System :: OS Indeppendent",
+      "Operating System :: OS Independent",
   ],
 )
